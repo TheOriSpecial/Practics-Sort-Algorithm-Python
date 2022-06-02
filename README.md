@@ -7,10 +7,17 @@
 Не мало важно и структурированность входных и выходных данных (файлы Input, Output, Analysis)
 Так как у программы не реализован никакой графический интерфейс, можно расcчитывать на высокое быстродействие кода.
 # Гайд по работе с программой
-Для начала работы с программой необходимо в коде прописать путь для входного и выходных файлов. Можно также изменить количество повторений сортировки, чтобы увеличить скорость работы программы.
-Если вы пути к файлам написаны верно, то программа выведет следующий результат:
-Внешний вид выходного файла:
-Внешний вид файла с анализом:
+Для начала работы с программой необходимо в коде прописать путь для входного и выходных файлов.
+![](https://github.com/TheOriSpecial/Practics-Sort-Algorithm-Python/blob/master/FilePaths%20example.png?raw=true)
+Можно также изменить количество повторений сортировки, чтобы увеличить скорость работы программы.
+## Если вы пути к файлам написаны верно, то программа выведет следующий результат:
+![](https://github.com/TheOriSpecial/Practics-Sort-Algorithm-Python/blob/master/Console%20example.png?raw=true)
+## Внешний вид входного файла:
+![](https://github.com/TheOriSpecial/Practics-Sort-Algorithm-Python/blob/master/Input%20example.png?raw=true)
+## Внешний вид выходного файла:
+![](https://github.com/TheOriSpecial/Practics-Sort-Algorithm-Python/blob/master/Output%20example.png?raw=true)
+## Внешний вид файла с анализом:
+![](https://github.com/TheOriSpecial/Practics-Sort-Algorithm-Python/blob/master/Analysis%20example.png?raw=true)
 # Версии программы
 ## 1. Сортировка расчёской
 В данной версии программы была реализована сортировка чисел методом расчёски.
